@@ -1971,7 +1971,6 @@ hr {
   /* mobile-navBar */
   #mobile-navBar {
     padding: 15px 20px;
-    position: relative;
   }
   #mobile-navBar .logo-mobile-link .ministore-mobile-logo {
     width: 100px;
@@ -1982,13 +1981,9 @@ hr {
     height: 22px;
   }
   #mobile-navBar #search-list {
-    /* height: 100%; */
-    /* height: 369px; */
-    /* width: 26%; */
     width: 25%;
-    height: 369px;
+    height: 369.5px;
     position: fixed !important;
-    top: 0;
     margin-left: -25%;
     overflow-y: auto;
   }
