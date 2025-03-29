@@ -1984,9 +1984,10 @@ hr {
     /* height: 369px; */
     /* width: 26%; */
     width: 45%;
-    height: 50%;
+    max-height: 50%;
     position: fixed !important;
     margin-left: -45%;
+    overflow-y: hidden;
   }
   #mobile-navBar #search-list #top-div {
     padding: 15px 20px;
