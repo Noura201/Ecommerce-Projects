@@ -871,7 +871,7 @@ hr {
     li {
     font-weight: 100;
     text-transform: uppercase;
-    color: rgb(34, 34, 34);
+    color: gray;
     background-color: white;
   }
   #mobile-navBar
@@ -1967,9 +1967,6 @@ hr {
 /* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
 /* Mobile Medium - 375px */
 @media (min-width: 375px) and (max-width: 424px) {
-  body {
-    overflow-x: hidden;
-  }
   /* mobile-navBar */
   #mobile-navBar {
     padding: 15px 20px;
@@ -1984,7 +1981,7 @@ hr {
   }
   #mobile-navBar #search-list {
     /* height: 100%; */
-    height: 20%;
+    height: 369px;
     width: 26%;
     position: fixed !important;
     margin-left: -25%;
