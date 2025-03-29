@@ -1345,18 +1345,11 @@ hr {
     width: 20px;
     height: 20px;
   }
-  /* #mobile-navBar #search-list {
-    height: 574px;
-    width: 220px;
-    left: calc(320px / 2);
-    position: fixed !important;
-    right: 0;
-    float: right;
-  } */
   #mobile-navBar #search-list {
     height: 100%;
-    width: 55%;
+    width: 26%;
     position: fixed !important;
+    margin-left: -25%;
   }
   #mobile-navBar #search-list #top-div {
     padding: 15px 20px;
@@ -1986,18 +1979,11 @@ hr {
     width: 22px;
     height: 22px;
   }
-  /* #mobile-navBar #search-list {
-    height: 574px;
-    width: 240px;
-    left: calc(375px / 2);
-    position: fixed !important;
-    right: 0;
-    float: right;
-  } */
   #mobile-navBar #search-list {
     height: 100%;
-    width: 55%;
+    width: 26%;
     position: fixed !important;
+    margin-left: -25%;
   }
   #mobile-navBar #search-list #top-div {
     padding: 15px 20px;
@@ -2506,7 +2492,7 @@ hr {
     height: fit-content;
   }
   hr {
-    top: 65%;
+    top: 66%;
     opacity: 0.3;
   }
   footer .up-footer {
@@ -2636,18 +2622,11 @@ hr {
     width: 25px;
     height: 25px;
   }
-  /* #mobile-navBar #search-list {
-    height: 574px;
-    width: 550px;
-    left: calc(425px / 2);
-    position: fixed !important;
-    right: 0;
-    float: right;
-  } */
   #mobile-navBar #search-list {
     height: 100%;
-    width: 55%;
+    width: 26%;
     position: fixed !important;
+    margin-left: -25%;
   }
   #mobile-navBar #search-list #top-div {
     padding: 15px 20px 0;
@@ -3280,18 +3259,11 @@ hr {
     width: 30px;
     height: 30px;
   }
-  /* #mobile-navBar #search-list {
-    height: 574px;
-    width: 650px;
-    left: calc(768px / 2);
-    position: fixed !important;
-    right: 0;
-    float: right;
-  } */
   #mobile-navBar #search-list {
     height: 100%;
-    width: 55%;
+    width: 26%;
     position: fixed !important;
+    margin-left: -25%;
   }
   #mobile-navBar #search-list #top-div {
     padding: 10px 25px;
