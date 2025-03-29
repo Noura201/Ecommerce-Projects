@@ -1985,7 +1985,7 @@ hr {
     /* height: 369px; */
     /* width: 26%; */
     width: 45%;
-    max-height: 100%;
+    height: 100%;
     position: fixed !important;
     top: 0;
     margin-left: -45%;
