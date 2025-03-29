@@ -1993,7 +1993,7 @@ hr {
     z-index: 9999;
   }
   #mobile-navBar #search-list #top-div {
-    padding: 5px 20px;
+    padding: 15px 20px;
   }
   #mobile-navBar #search-list #top-div a #main-logo-img {
     width: 100px;
@@ -2006,7 +2006,7 @@ hr {
   #mobile-navBar #search-list #bottom-div #nav-mobile-list1 {
     padding: 0 20px;
     height: 60%;
-    margin-top: -15px;
+    margin-top: -10px;
   }
   #mobile-navBar #search-list #bottom-div #nav-mobile-list1 a li {
     padding: 12px;
