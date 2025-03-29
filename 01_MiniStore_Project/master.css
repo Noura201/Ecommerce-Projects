@@ -1967,6 +1967,9 @@ hr {
 /* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
 /* Mobile Medium - 375px */
 @media (min-width: 375px) and (max-width: 424px) {
+  body {
+    overflow-x: hidden;
+  }
   /* mobile-navBar */
   #mobile-navBar {
     padding: 15px 20px;
@@ -1981,7 +1984,7 @@ hr {
   }
   #mobile-navBar #search-list {
     /* height: 100%; */
-    height: 300px;
+    height: 20%;
     width: 26%;
     position: fixed !important;
     margin-left: -25%;
