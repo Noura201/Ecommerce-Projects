@@ -1336,7 +1336,6 @@ hr {
   /* mobile-navBar */
   #mobile-navBar {
     padding: 15px 20px;
-    background-color: red;
   }
   #mobile-navBar .logo-mobile-link .ministore-mobile-logo {
     width: 90px;
@@ -1874,7 +1873,8 @@ hr {
   footer .up-footer .div2 {
     padding: 10px 0;
   }
-  footer .up-footer .div2, .div4 {
+  footer .up-footer .div2,
+  .div4 {
     padding-left: 10px;
   }
   footer .up-footer .div1 .main-logo {
@@ -1939,7 +1939,8 @@ hr {
     flex-wrap: wrap;
     margin: 0;
   }
-  footer .bottom-footer .line2, .line3 {
+  footer .bottom-footer .line2,
+  .line3 {
     display: block;
   }
   footer .bottom-footer .first-div p,
@@ -1976,7 +1977,6 @@ hr {
   /* mobile-navBar */
   #mobile-navBar {
     padding: 15px 20px;
-    background-color: green;
   }
   #mobile-navBar .logo-mobile-link .ministore-mobile-logo {
     width: 100px;
@@ -2506,7 +2506,7 @@ hr {
     height: fit-content;
   }
   hr {
-    top: 70%;
+    top: 65%;
     opacity: 0.3;
   }
   footer .up-footer {
@@ -2521,7 +2521,8 @@ hr {
   footer .up-footer .div2 {
     padding: 10px 0;
   }
-  footer .up-footer .div2, .div4 {
+  footer .up-footer .div2,
+  .div4 {
     padding-left: 10px;
   }
   footer .up-footer .div1 .main-logo {
@@ -2589,7 +2590,8 @@ hr {
     flex-direction: column;
     flex-wrap: wrap;
   }
-  footer .bottom-footer .line2, .line3 {
+  footer .bottom-footer .line2,
+  .line3 {
     display: block;
   }
   footer .bottom-footer .first-div p,
@@ -2625,7 +2627,6 @@ hr {
   /* mobile-navBar */
   #mobile-navBar {
     padding: 20px 25px;
-    background-color: blue;
   }
   #mobile-navBar .logo-mobile-link .ministore-mobile-logo {
     width: 110px;
@@ -3165,7 +3166,8 @@ hr {
   footer .up-footer .div2 {
     padding: 10px 0;
   }
-  footer .up-footer .div2, .div4 {
+  footer .up-footer .div2,
+  .div4 {
     padding-left: 20px;
   }
   footer .up-footer .div1 .main-logo {
@@ -3232,7 +3234,8 @@ hr {
     flex-direction: column;
     flex-wrap: wrap;
   }
-  footer .bottom-footer .line2, .line3 {
+  footer .bottom-footer .line2,
+  .line3 {
     display: block;
   }
   footer .bottom-footer .first-div p,
@@ -3268,7 +3271,6 @@ hr {
   /* mobile-navBar */
   #mobile-navBar {
     padding: 20px 25px;
-    background-color: orange;
   }
   #mobile-navBar .logo-mobile-link .ministore-mobile-logo {
     width: 120px;
@@ -3770,7 +3772,8 @@ hr {
   footer .up-footer .div2 {
     padding: 10px 0;
   }
-  footer .up-footer .div2, .div4 {
+  footer .up-footer .div2,
+  .div4 {
     padding-left: 50px;
   }
   footer .up-footer .div1 .main-logo {
@@ -3830,7 +3833,8 @@ hr {
     flex-direction: column;
     flex-wrap: wrap;
   }
-  footer .bottom-footer .line2, .line3 {
+  footer .bottom-footer .line2,
+  .line3 {
     display: block;
   }
   footer .bottom-footer .first-div p,
