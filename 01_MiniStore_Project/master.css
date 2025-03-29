@@ -869,7 +869,7 @@ hr {
     #mobile-nav-list2
     a
     li {
-    font-weight: 100;
+    font-weight: 400;
     text-transform: uppercase;
     color: #000;
     background-color: white;
@@ -882,7 +882,7 @@ hr {
     #mobile-nav-list2
     a
     li:hover {
-    color: rgb(34, 34, 34);
+    color: #000;
     background-color: rgb(77, 77, 77, 8%);
   }
   #mobile-navBar
@@ -1970,6 +1970,7 @@ hr {
   /* mobile-navBar */
   #mobile-navBar {
     padding: 15px 20px;
+    position: relative;
   }
   #mobile-navBar .logo-mobile-link .ministore-mobile-logo {
     width: 100px;
@@ -1980,14 +1981,16 @@ hr {
     height: 22px;
   }
   #mobile-navBar #search-list {
-    height: 100%;
+    /* height: 100%; */
     /* height: 369px; */
     /* width: 26%; */
     width: 45%;
-    max-height: 50%;
+    max-height: 100%;
     position: fixed !important;
+    top: 0;
     margin-left: -45%;
-    overflow-y: hidden;
+    overflow-y: auto;
+    z-index: 9999;
   }
   #mobile-navBar #search-list #top-div {
     padding: 15px 20px;
