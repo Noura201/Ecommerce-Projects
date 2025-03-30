@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![](./Ministore-Screenshot.png)
+![Screenshot](./Ministore-Screenshot.png)
 
 **Ministore** is a clean, responsive, and customizable e-commerce template built with **HTML5, CSS3, and JavaScript**. Perfect for small businesses, startups, or portfolio projects looking for a stylish online storefront.
 
