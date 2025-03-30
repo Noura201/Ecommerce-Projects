@@ -1,8 +1,5 @@
 # **Ministore - A Modern E-Commerce Template**
 
-## Screenshot
-![Ministore Demo](./screenshot/Ministore-Screenshot.png)
-
 **Ministore** is a clean, responsive, and customizable e-commerce template built with **HTML5, CSS3, and JavaScript**. Perfect for small businesses, startups, or portfolio projects looking for a stylish online storefront.
 
 🔗 **Live Demo**: https://noura201.github.io/Ecommerce-Projects/01_MiniStore_Project
