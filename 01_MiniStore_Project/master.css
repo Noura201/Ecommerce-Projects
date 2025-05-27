@@ -753,7 +753,7 @@ hr {
     height: 100vh;
     position: fixed !important;
     top: 0;
-    left: 50%;
+    right: 0;
     display: flex;
     flex-direction: column;
     z-index: 9999;
@@ -769,6 +769,7 @@ hr {
     flex-direction: row;
     align-items: center;
     position: relative;
+    transition: all 0.3s ease;
   }
   #mobile-navBar #search-list #top-div #xmark-icon-link {
     width: fit-content;
