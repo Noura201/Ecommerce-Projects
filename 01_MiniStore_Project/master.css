@@ -724,7 +724,7 @@ hr {
     align-items: center;
     width: 100%;
     z-index: 9998;
-    background-color: whitesmoke;
+    background-color: transparent;
   }
   #mobile-navBar .logo-mobile-link {
     align-self: flex-start;
@@ -750,11 +750,11 @@ hr {
     align-self: center;
   }
   #mobile-navBar #search-list {
-    width: 55%;
-    height: 100%;
-    position: fixed;
-    top: 0%;
-    left: 45%;
+    width: 50%;
+    height: 100vh;
+    position: fixed !important;
+    top: 0;
+    right: 0;
     display: flex;
     flex-direction: column;
     z-index: 9999;
@@ -762,6 +762,8 @@ hr {
     opacity: 1 !important;
     transform: translateX(100%);
     background-color: #edf1f3;
+    margin-left: -25%;
+    overflow-y: auto;
   }
   #mobile-navBar #search-list #top-div {
     width: 100%;
@@ -1346,8 +1348,8 @@ hr {
     height: 20px;
   }
   #mobile-navBar #search-list {
-    height: 314.5px;
-    width: 26%;
+    height: 100vh;
+    width: 50%;
     position: fixed !important;
     margin-left: -25%;
     overflow-y: auto;
@@ -1981,8 +1983,8 @@ hr {
     height: 22px;
   }
   #mobile-navBar #search-list {
-    width: 25%;
-    height: 369.5px;
+    width: 50%;
+    height: 100vh;
     position: fixed !important;
     margin-left: -25%;
     overflow-y: auto;
@@ -2626,8 +2628,8 @@ hr {
     height: 25px;
   }
   #mobile-navBar #search-list {
-    height: 434px;
-    width: 26%;
+    height: 100vh;
+    width: 50%;
     position: fixed !important;
     margin-left: -25%;
     overflow-y: auto;
@@ -3264,8 +3266,8 @@ hr {
     height: 30px;
   }
   #mobile-navBar #search-list {
-    height: 574px;
-    width: 26%;
+    height: 100vh;
+    width: 50%;
     position: fixed !important;
     margin-left: -25%;
     overflow-y: auto;
