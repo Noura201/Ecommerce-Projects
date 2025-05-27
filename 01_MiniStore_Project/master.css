@@ -753,15 +753,13 @@ hr {
     height: 100vh;
     position: fixed !important;
     top: 0;
-    right: 0;
+    left: 50%;
     display: flex;
     flex-direction: column;
     z-index: 9999;
     visibility: hidden;
     opacity: 1 !important;
     background-color: #edf1f3;
-    /* transform: translateX(100%); */
-    /* overflow-y: auto; */
   }
   #mobile-navBar #search-list #top-div {
     width: 100%;
@@ -1344,12 +1342,6 @@ hr {
   #mobile-navBar #nav-mobile-item li #list-icon-link svg {
     width: 20px;
     height: 20px;
-  }
-  #mobile-navBar #search-list {
-    height: 100vh;
-    width: 50%;
-    position: fixed !important;
-    /* overflow-y: auto; */
   }
   #mobile-navBar #search-list #top-div {
     padding: 15px 20px;
@@ -2623,12 +2615,6 @@ hr {
     width: 25px;
     height: 25px;
   }
-  #mobile-navBar #search-list {
-    height: 100vh;
-    width: 50%;
-    position: fixed !important;
-    /* overflow-y: auto; */
-  }
   #mobile-navBar #search-list #top-div {
     padding: 15px 20px 0;
   }
@@ -3260,12 +3246,6 @@ hr {
     width: 30px;
     height: 30px;
   }
-  #mobile-navBar #search-list {
-    height: 100vh;
-    width: 50%;
-    position: fixed !important;
-    /* overflow-y: auto; */
-  }
   #mobile-navBar #search-list #top-div {
     padding: 10px 25px;
   }
@@ -3856,7 +3836,6 @@ hr {
   #smart-watches {
     display: none;
   }
-
   nav {
     position: sticky;
     top: 0;
