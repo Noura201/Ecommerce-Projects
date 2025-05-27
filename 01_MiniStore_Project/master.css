@@ -760,6 +760,7 @@ hr {
     visibility: hidden;
     opacity: 1 !important;
     background-color: #edf1f3;
+    overflow: hidden;
   }
   #mobile-navBar #search-list #top-div {
     width: 100%;
