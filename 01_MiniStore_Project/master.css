@@ -762,7 +762,7 @@ hr {
     opacity: 1 !important;
     transform: translateX(100%);
     background-color: #edf1f3;
-    margin-left: -25%;
+    margin-left: 0;
     overflow-y: auto;
   }
   #mobile-navBar #search-list #top-div {
@@ -1351,7 +1351,7 @@ hr {
     height: 100vh;
     width: 50%;
     position: fixed !important;
-    margin-left: -25%;
+    margin-left: 0;
     overflow-y: auto;
   }
   #mobile-navBar #search-list #top-div {
@@ -1986,7 +1986,7 @@ hr {
     width: 50%;
     height: 100vh;
     position: fixed !important;
-    margin-left: -25%;
+    margin-left: 0;
     overflow-y: auto;
   }
   #mobile-navBar #search-list #top-div {
@@ -2631,7 +2631,7 @@ hr {
     height: 100vh;
     width: 50%;
     position: fixed !important;
-    margin-left: -25%;
+    margin-left: 0;
     overflow-y: auto;
   }
   #mobile-navBar #search-list #top-div {
@@ -3269,7 +3269,7 @@ hr {
     height: 100vh;
     width: 50%;
     position: fixed !important;
-    margin-left: -25%;
+    margin-left: 0;
     overflow-y: auto;
   }
   #mobile-navBar #search-list #top-div {
